@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pravinkedia
+- 👋 Hi, I’m Pravin Kedia
 - 👀 I’m interested in open source development
 - 🌱 I’m currently learning cloud pak for data
 - 💞️ I’m looking to collaborate on cloud pak for data enhancements
